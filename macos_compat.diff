@@ -126,7 +126,7 @@ index fb52087..cabfc3a 100644
      m_dep,
      libfst_dep,
      liblxt_dep,
-diff --git a/src/wave_view.c b/src/wave_view.c
+diff --git a/src/gw-wave-view.c b/src/gw-wave-view.c
 index 7bd9f34..afe6bdf 100644
 --- a/src/gw-wave-view.c
 +++ b/src/gw-wave-view.c
