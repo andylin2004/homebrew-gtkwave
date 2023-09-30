@@ -16,7 +16,7 @@ class Gtkwave < Formula
 
   patch do
 	url "https://raw.githubusercontent.com/andylin2004/homebrew-gtkwave/main/macos_compat.diff"
-	sha256 "f9bd821688d04a817e730b65418c3a3807b9bc8e665567454c708a011adc2031"
+	sha256 "562cfb87a7a981c93bfba75389616bc625404cee310d9b72dcfefd7ba829f269"
 	end
 
   def install
