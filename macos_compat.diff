@@ -128,8 +128,8 @@ index fb52087..cabfc3a 100644
      liblxt_dep,
 diff --git a/src/wave_view.c b/src/wave_view.c
 index 7bd9f34..afe6bdf 100644
---- a/src/wave_view.c
-+++ b/src/wave_view.c
+--- a/src/gw-wave_view.c
++++ b/src/gw-wave_view.c
 @@ -685,6 +685,7 @@ static gboolean gw_wave_view_draw(GtkWidget *widget, cairo_t *cr)
  static void gw_wave_view_size_allocate(GtkWidget *widget, GtkAllocation *allocation)
  {

@@ -15,8 +15,8 @@ class Gtkwave < Formula
   depends_on "gtk+3"
 
   patch do
-	url "https://raw.githubusercontent.com/randomplum/homebrew-gtkwave/main/macos_compat.diff"
-	sha256 "7f5f50dd6c1e25a6d0d5b8f05ca9f32ef650a30bff2fa128086b3daa7ad19dd2"
+	url "https://raw.githubusercontent.com/andylin2004/homebrew-gtkwave/main/macos_compat.diff"
+	sha256 "f9bd821688d04a817e730b65418c3a3807b9bc8e665567454c708a011adc2031"
 	end
 
   def install
